@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/fourLinkage/fourLinkage",
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

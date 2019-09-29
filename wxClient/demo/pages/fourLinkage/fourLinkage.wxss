@@ -1,0 +1,12 @@
+.section {
+  margin-top: 50rpx;
+}
+
+.section__title {
+  margin-bottom: 20rpx;
+  padding-left: 20px;
+}
+.picker {
+  padding: 20rpx;
+  border: 2rpx solid #e5e5e5; 
+}
